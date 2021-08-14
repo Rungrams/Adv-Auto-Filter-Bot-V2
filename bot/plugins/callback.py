@@ -1639,11 +1639,11 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('CHANNEL📢', url='https:/t.me/tobot_update'),
-            InlineKeyboardButton('GROUP👥', url ='https:/t.me/tobotupdate')
+            InlineKeyboardButton('CHANNEL📢', url='https://t.me/tobot_update'),
+            InlineKeyboardButton('GROUP👥', url ='https://t.me/tobotupdate')
         ],[
-            InlineKeyboardButton('REPO🤖', url='https:/t.me/bot_repo')
-            Inlinekeyboardbutton('DEVLOAPER👩‍💻', url='https:/t.me/rungram')
+            InlineKeyboardButton('REPO🤖', url='https://t.me/bot_repo')
+            Inlinekeyboardbutton('DEVLOAPER👩‍💻', url='https://t.me/rungram')
         ],[
             InlineKeyboardButton('🔔SUBSCRIBE🔔', url='https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ')
         ]]
