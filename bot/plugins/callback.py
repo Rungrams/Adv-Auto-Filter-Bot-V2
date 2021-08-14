@@ -1643,7 +1643,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('GROUP👥', url ='https://t.me/tobotupdate')
         ],[
             InlineKeyboardButton('REPO🤖', url='https://t.me/bot_repo')
-            Inlinekeyboardbutton('DEVLOAPER👩‍💻', url='https://t.me/rungram')
+            InlinekeyboardButton('DEVLOAPER👩‍💻', url='https://t.me/rungram')
         ],[
             InlineKeyboardButton('🔔SUBSCRIBE🔔', url='https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ')
         ]]
