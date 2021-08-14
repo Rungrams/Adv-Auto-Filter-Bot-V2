@@ -53,7 +53,7 @@ async def start(bot, update):
         InlineKeyboardButton('REPO🤖', url='https://t.me/bot_repo'),
         InlinekeyboardButton('DEVLOAPER👩‍💻', url='https://t.me/rungram')
     ],[
-        InlineKeyboardButton('🔔SUBSCRIBE🔔', url='https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ'))
+        InlineKeyboardButton('🔔SUBSCRIBE🔔', url='https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
